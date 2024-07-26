@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Appweb\\ABC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{036093E8-ABBA-41FA-9388-CB72EC456B09}|ABC\\ABC.csproj|c:\\users\\dell\\onedrive\\documents\\appweb\\abc\\abc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036093E8-ABBA-41FA-9388-CB72EC456B09}|ABC\\ABC.csproj|solutionrelative:abc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036093E8-ABBA-41FA-9388-CB72EC456B09}|ABC\\ABC.csproj|c:\\users\\dell\\onedrive\\documents\\appweb\\abc\\abc\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{036093E8-ABBA-41FA-9388-CB72EC456B09}|ABC\\ABC.csproj|solutionrelative:abc\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036093E8-ABBA-41FA-9388-CB72EC456B09}|ABC\\ABC.csproj|c:\\users\\dell\\onedrive\\documents\\appweb\\abc\\abc\\views\\home\\client_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{036093E8-ABBA-41FA-9388-CB72EC456B09}|ABC\\ABC.csproj|solutionrelative:abc\\views\\home\\client_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036093E8-ABBA-41FA-9388-CB72EC456B09}|ABC\\ABC.csproj|c:\\users\\dell\\onedrive\\documents\\appweb\\abc\\abc\\models\\exampledatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036093E8-ABBA-41FA-9388-CB72EC456B09}|ABC\\ABC.csproj|solutionrelative:abc\\models\\exampledatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036093E8-ABBA-41FA-9388-CB72EC456B09}|ABC\\ABC.csproj|c:\\users\\dell\\onedrive\\documents\\appweb\\abc\\abc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036093E8-ABBA-41FA-9388-CB72EC456B09}|ABC\\ABC.csproj|solutionrelative:abc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036093E8-ABBA-41FA-9388-CB72EC456B09}|ABC\\ABC.csproj|c:\\users\\dell\\onedrive\\documents\\appweb\\abc\\abc\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036093E8-ABBA-41FA-9388-CB72EC456B09}|ABC\\ABC.csproj|solutionrelative:abc\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\Appweb\\ABC\\ABC\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "ABC\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\Appweb\\ABC\\ABC\\Models\\Client.cs",
+              "RelativeToolTip": "ABC\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:05:34.294Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\Appweb\\ABC\\ABC\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ABC\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\Appweb\\ABC\\ABC\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "ABC\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T01:38:37.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "client_details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\Appweb\\ABC\\ABC\\Views\\Home\\client_details.cshtml",
+              "RelativeDocumentMoniker": "ABC\\Views\\Home\\client_details.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\Appweb\\ABC\\ABC\\Views\\Home\\client_details.cshtml",
+              "RelativeToolTip": "ABC\\Views\\Home\\client_details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T00:33:47.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\Appweb\\ABC\\ABC\\Program.cs",
+              "RelativeDocumentMoniker": "ABC\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\Appweb\\ABC\\ABC\\Program.cs",
+              "RelativeToolTip": "ABC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:30:49.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EXAMPLEDATAContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\Appweb\\ABC\\ABC\\Models\\EXAMPLEDATAContext.cs",
+              "RelativeDocumentMoniker": "ABC\\Models\\EXAMPLEDATAContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\Appweb\\ABC\\ABC\\Models\\EXAMPLEDATAContext.cs",
+              "RelativeToolTip": "ABC\\Models\\EXAMPLEDATAContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:30:25.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\Appweb\\ABC\\ABC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ABC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\Appweb\\ABC\\ABC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ABC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:10:08.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

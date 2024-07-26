@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "client_details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model ABC.Models.ViewModels.ClientVM
+
+
+<div class=" row">
+    <div class=" col-sm-5">
+        <form asp-action="client_details" asp-controller="Home" method="post">
+
+            <input type="hidden" asp-for="oClient.Id" />
+
+            <div class="mb-2">
+                <label class="col-form-label" asp-for="oClient.Name">Full Name</label>
+                <input class="form-control form-control-sm" asp-for="oClient.Name" type="text" />
+            </div>
+
+            <div class="mb-2">
+                <label class="col-form-label" asp-for="oClient.Email">Email</label>
+                <input class="form-control form-control-sm" asp-for="oClient.Email" type="text" />
+            </div>
+
+            <div class="mb-2">
+                <label class="col-form-label" asp-for="oClient.Phone">Phone</label>
+                <input class="form-control form-control-sm" asp-for="oClient.Phone" type="text" />
+            </div>
+
+            <div class="mb-2">
+                <label class="col-form-label" asp-for="oClient.Address">Address</label>
+                <input class="form-control form-control-sm" asp-for="oClient.Address" type="text" />
+            </div>
+                <button class="btn btn-primary btn-sm w-25" type="submit">Submit</button>
+            <a class="btn btn-success btn-sm" asp-action="Index" asp-controller="Home">Back</a>
+        </form>
+    </div>
+</div>

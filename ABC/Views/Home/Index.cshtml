@@ -1,0 +1,49 @@
+﻿@model List<ABC.Models.Client>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="card">
+   <div class="card-header">
+       <h5>Client list</h5>
+   </div>
+   <div class="card-body">
+       <a class="btn btn-success btn-sm" asp-action="client_details" asp-controller="home" asp-route-idclient="0">New Client</a>
+        <hr />
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                    <th>Address</th>
+                    <th>Created at</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Name</td>
+                        <td>@item.Email</td>
+                        <td>@item.Phone</td>
+                        <td>@item.Address</td>
+                        <td>@item.CreatedAt</td>
+                        <td>
+                            <a class="btn btn-primary btn-sm" asp-action="client_details" asp-controller="home" asp-route-idclient="@item.Id">Edit</a>
+                            <a class="btn btn-danger btn-sm" asp-action="Delete" asp-controller="home" asp-route-idclient="@item.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+   </div>
+</div>
